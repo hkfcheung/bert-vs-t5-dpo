@@ -1,0 +1,7 @@
+# Ignore all JSON and JSONL files
+*.json
+*.jsonl
+
+# Ignore environment variable files
+.env
+.env.*
